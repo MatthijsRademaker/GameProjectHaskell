@@ -1,0 +1,11 @@
+Installing executable(s) in
+C:\Users\Matthijs\Documents\GitHub\GameProject-Haskell\framework\.cabal-sandbox\bin
+ling Model            ( src\Model.hs, dist\dist-sandbox-4662e791\build\lambda-wars\lambda-wars-tmp\Model.o )
+[2 of 7] Compiling View             ( src\View.hs, dist\dist-sandbox-4662e791\build\lambda-wars\lambda-wars-tmp\View.o )
+[3 of 7] Compiling Controller.Event ( src\Controller\Event.hs, dist\dist-sandbox-4662e791\build\lambda-wars\lambda-wars-tmp\Controller\Event.o )
+[4 of 7] Compiling Controller.Time  ( src\Controller\Time.hs, dist\dist-sandbox-4662e791\build\lambda-wars\lambda-wars-tmp\Controller\Time.o )
+[5 of 7] Compiling Controller       ( src\Controller.hs, dist\dist-sandbox-4662e791\build\lambda-wars\lambda-wars-tmp\Controller.o )
+[6 of 7] Compiling Config           ( src\Config.hs, dist\dist-sandbox-4662e791\build\lambda-wars\lambda-wars-tmp\Config.o )
+[7 of 7] Compiling Main             ( src\Main.hs, dist\dist-sandbox-4662e791\build\lambda-wars\lambda-wars-tmp\Main.o )
+Linking dist/dist-sandbox-4662e791\build\lambda-wars\lambda-wars.exe ...
+cabal: Leaving directory '.'
